@@ -30,7 +30,7 @@
     );
   }
 
-}( window, function factory( Outlayer, getSize ) {
+}( this, function factory( Outlayer, getSize ) {
 
 'use strict';
 
